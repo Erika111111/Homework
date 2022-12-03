@@ -1,0 +1,15 @@
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.csproj.AssemblyReference.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.AssemblyInfoInputs.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.AssemblyInfo.cs
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.csproj.CoreCompileInputs.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/bin/Debug/net6.0/Lesson3
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/bin/Debug/net6.0/Lesson3.deps.json
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/bin/Debug/net6.0/Lesson3.runtimeconfig.json
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/bin/Debug/net6.0/Lesson3.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/bin/Debug/net6.0/Lesson3.pdb
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/refint/Lesson3.dll
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.pdb
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/Lesson3.genruntimeconfig.cache
+/Users/mityukov/Desktop/GeekBrains/Homework/Lesson3/obj/Debug/net6.0/ref/Lesson3.dll
